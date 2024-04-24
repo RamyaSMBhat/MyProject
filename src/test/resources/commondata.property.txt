@@ -1,0 +1,3 @@
+url https://bdsi-stg2-store.pivotree.io/
+un automation.001020
+pwd password
